@@ -1,5 +1,5 @@
 ## Exploring Sales Data in SQL and Tableau
-#Inspecting Imported Data
+**Inspecting Imported Data
 -Analysis 1 - Sales by Product Line
 -Analysis 2 - Sales by Year
 -Analysis 3 - Sales by DealSize
